@@ -1,0 +1,1 @@
+Developed an interactive, custom-designed media insights dashboard leveraging a comprehensive Kaggle dataset containing over 16,000 entertainment records (Movies and TV Shows). The project aimed to track global content consumption trends, evaluate viewer reception scores, and map out the distribution performance of entertainment media across various languages and release periods.
