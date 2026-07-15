@@ -1,0 +1,1 @@
+Developed an interactive Sales Performance Dashboard in Excel using a comprehensive retail dataset sourced from Kaggle. The primary objective was to transform raw, unorganized transactional data into actionable business insights, enabling stakeholders to evaluate revenue trends, product performance, and regional sales health.
